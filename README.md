@@ -20,6 +20,7 @@
 * 剪映
 * photoshop
 ## Linux
+* ventoy
 * ubuntu25.10
 * openconnect
 * remmina
